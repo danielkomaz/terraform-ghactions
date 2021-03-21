@@ -21,11 +21,11 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      ARM_SUBSCRIPTION_ID: "95ae7b8f-565e-4b1c-8328-a165ca3e10b8"
-      ARM_TENANT_ID: "666b6e6c-aa05-4cde-be8b-324378f3655b"
-      ARM_CLIENT_ID: "f384c200-fd5f-463f-8cf2-2550fd047f17"
+      ARM_SUBSCRIPTION_ID: '95ae7b8f-565e-4b1c-8328-a165ca3e10b8'
+      ARM_TENANT_ID: '666b6e6c-aa05-4cde-be8b-324378f3655b'
+      ARM_CLIENT_ID: 'f384c200-fd5f-463f-8cf2-2550fd047f17'
       ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
-      AZURE_STORAGE: "cloudskillsterraformstatedemodanielkomaz"
+      AZURE_STORAGE: 'cloudskillsterraformstatedemodanielkomaz'
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
