@@ -25,7 +25,7 @@ jobs:
       ARM_TENANT_ID: '666b6e6c-aa05-4cde-be8b-324378f3655b'
       ARM_CLIENT_ID: 'f384c200-fd5f-463f-8cf2-2550fd047f17'
       ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
-      AZURE_STORAGE: 'cloudskillsterraformstatedemodanielkomaz'
+      AZURE_STORAGE: 'cloudskillstfstatedanko'
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
