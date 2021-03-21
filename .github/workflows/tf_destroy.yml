@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Terraform GitHubAction Demo
+name: Terraform GitHubAction Demo Destroy
 
 # Controls when the action will run.
 on:
